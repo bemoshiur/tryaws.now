@@ -14,9 +14,9 @@
     "lint": "eslint -c ../../eslint.config.mjs ."
   },
   "dependencies": {
-    "@aws-sdk/client-kms": "3.1166.0",
-    "@aws-sdk/client-lambda": "3.1166.0",
-    "@aws-sdk/client-sqs": "3.1166.0",
+    "@aws-sdk/client-kms": "3.1169.0",
+    "@aws-sdk/client-lambda": "3.1169.0",
+    "@aws-sdk/client-sqs": "3.1169.0",
     "@tc/auth": "workspace:*",
     "@tc/core": "workspace:*",
     "@tc/db": "workspace:*",
@@ -24,7 +24,7 @@
     "@tc/notify": "workspace:*",
     "@tc/ui": "workspace:*",
     "next": "16.4.6",
-    "next-intl": "4.14.10",
+    "next-intl": "4.15.1",
     "qrcode-generator": "2.0.4",
     "react": "19.3.1",
     "react-dom": "19.3.1",
